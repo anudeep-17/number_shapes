@@ -1,5 +1,7 @@
 # number_shapes 
 
+> <a href="https://github.com/anudeep-17/number_shapes/blob/main/app/src/main/java/com/example/numbershapes/MainActivity.java">viewcode of this project.</a>
+
 please do check my other android projects: 
 1. https://github.com/anudeep-17/HighorLow 
 2. https://github.com/anudeep-17/currency-converter *// first android application*
